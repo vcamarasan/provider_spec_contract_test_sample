@@ -1,0 +1,1 @@
+# provider_spec_contract_test_sample
